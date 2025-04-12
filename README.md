@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **swadin1905@gmail.com**
 
-- 📄 Know about my experiences [contact me on mail](contact me on mail)
-
 - ⚡ Fun fact **Sometimes I make mistake with little things**
 
 ### Blogs posts
