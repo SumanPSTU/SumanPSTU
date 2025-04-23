@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanpstu" alt="sumanpstu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/swadin1905" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/swadin1905?logo=twitter&style=for-the-badge" alt="https://x.com/swadin1905" /></a> </p>
-
 - 🔭 I’m currently working on **Spring boot project**
 
 - 🌱 I’m currently learning **Spring Boot and Android studio**
